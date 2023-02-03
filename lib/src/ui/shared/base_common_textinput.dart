@@ -1,4 +1,4 @@
-import 'package:base_flutter/src/ui/shared/ui_constants.dart';
+import 'package:dotapps/src/ui/shared/ui_constants.dart';
 import 'package:flutter/material.dart';
 
 class BaseCommonTextInput extends StatelessWidget {

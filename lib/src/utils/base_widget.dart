@@ -1,4 +1,4 @@
-import 'package:base_flutter/src/utils/sizing_information.dart';
+import 'package:dotapps/src/utils/sizing_information.dart';
 import 'package:flutter/widgets.dart';
 
 class BaseWidget extends StatelessWidget {

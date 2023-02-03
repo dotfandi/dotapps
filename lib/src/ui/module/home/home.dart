@@ -1,6 +1,6 @@
-import 'package:base_flutter/src/ui/module/photo/list_photo.dart';
-import 'package:base_flutter/src/ui/module/post/list_post.dart';
-import 'package:base_flutter/src/ui/module/profile/profile.dart';
+import 'package:dotapps/src/ui/module/photo/list_photo.dart';
+import 'package:dotapps/src/ui/module/post/list_post.dart';
+import 'package:dotapps/src/ui/module/profile/profile.dart';
 import 'package:flutter/material.dart';
 
 class Home extends StatefulWidget {

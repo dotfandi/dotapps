@@ -1,5 +1,5 @@
-import 'package:base_flutter/src/core/data/hive_constants.dart';
-import 'package:base_flutter/src/core/data/models/user.dart';
+import 'package:dotapps/src/core/data/hive_constants.dart';
+import 'package:dotapps/src/core/data/models/user.dart';
 import 'package:hive/hive.dart';
 
 class ProfileDbRepository {

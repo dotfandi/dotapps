@@ -1,5 +1,5 @@
-import 'package:base_flutter/src/core/repositories/api/post_repository.dart';
-import 'package:base_flutter/src/core/repositories/db/post_db_repository.dart';
+import 'package:dotapps/src/core/repositories/api/post_repository.dart';
+import 'package:dotapps/src/core/repositories/db/post_db_repository.dart';
 import 'package:bloc/bloc.dart';
 import 'package:formz/formz.dart';
 

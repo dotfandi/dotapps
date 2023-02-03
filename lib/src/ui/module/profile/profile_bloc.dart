@@ -1,5 +1,5 @@
-import 'package:base_flutter/src/ui/module/profile/profile_event.dart';
-import 'package:base_flutter/src/ui/module/profile/profile_state.dart';
+import 'package:dotapps/src/ui/module/profile/profile_event.dart';
+import 'package:dotapps/src/ui/module/profile/profile_state.dart';
 import 'package:bloc/bloc.dart';
 import 'package:formz/formz.dart';
 

@@ -1,5 +1,5 @@
-import 'package:base_flutter/src/ui/module/photo/list_photo_event.dart';
-import 'package:base_flutter/src/ui/module/photo/list_photo_state.dart';
+import 'package:dotapps/src/ui/module/photo/list_photo_event.dart';
+import 'package:dotapps/src/ui/module/photo/list_photo_state.dart';
 import 'package:bloc/bloc.dart';
 import 'package:formz/formz.dart';
 

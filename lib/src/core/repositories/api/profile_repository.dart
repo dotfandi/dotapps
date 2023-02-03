@@ -1,6 +1,6 @@
-import 'package:base_flutter/src/core/data/models/user.dart';
-import 'package:base_flutter/src/core/networks/api_service_model.dart';
-import 'package:base_flutter/src/core/networks/network_helper.dart';
+import 'package:dotapps/src/core/data/models/user.dart';
+import 'package:dotapps/src/core/networks/api_service_model.dart';
+import 'package:dotapps/src/core/networks/network_helper.dart';
 import 'package:dio/dio.dart';
 
 class ProfileRepository {

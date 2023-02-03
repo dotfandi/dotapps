@@ -1,4 +1,4 @@
-import 'package:base_flutter/src/core/data/models/album.dart';
+import 'package:dotapps/src/core/data/models/album.dart';
 import 'package:flutter/material.dart';
 
 class ItemAlbum extends StatelessWidget {

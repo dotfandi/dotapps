@@ -1,9 +1,9 @@
-import 'package:base_flutter/src/core/data/models/post.dart';
-import 'package:base_flutter/src/ui/module/post/list_post_bloc.dart';
-import 'package:base_flutter/src/ui/module/post/list_post_event.dart';
-import 'package:base_flutter/src/ui/module/post/list_post_state.dart';
-import 'package:base_flutter/src/ui/shared/base_common_textinput.dart';
-import 'package:base_flutter/src/ui/shared/my_app_toolbar.dart';
+import 'package:dotapps/src/core/data/models/post.dart';
+import 'package:dotapps/src/ui/module/post/list_post_bloc.dart';
+import 'package:dotapps/src/ui/module/post/list_post_event.dart';
+import 'package:dotapps/src/ui/module/post/list_post_state.dart';
+import 'package:dotapps/src/ui/shared/base_common_textinput.dart';
+import 'package:dotapps/src/ui/shared/my_app_toolbar.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:formz/formz.dart';

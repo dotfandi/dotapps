@@ -1,4 +1,4 @@
-import 'package:base_flutter/src/core/data/models/user.dart';
+import 'package:dotapps/src/core/data/models/user.dart';
 import 'package:equatable/equatable.dart';
 import 'package:formz/formz.dart';
 

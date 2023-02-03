@@ -1,4 +1,4 @@
-import 'package:base_flutter/src/core/data/models/post.dart';
+import 'package:dotapps/src/core/data/models/post.dart';
 import 'package:flutter/material.dart';
 
 class ItemPost extends StatelessWidget {

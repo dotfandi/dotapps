@@ -1,5 +1,5 @@
-import 'package:base_flutter/src/core/networks/app_exceptions.dart';
 import 'package:dio/dio.dart';
+import 'package:dotapps/src/core/networks/app_exceptions.dart';
 
 enum Status { LOADING, COMPLETED, LOADED_ALL, ERROR, DIOERROR }
 
